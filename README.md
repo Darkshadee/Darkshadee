@@ -13,9 +13,8 @@ Q | A
 **Languages I know**  | `C , Python`
 **Languages I learning** | `Go, Rust , C++ `
 
- ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=darkshadee&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadee&theme=radical&layout=compact)
-![Ashwin github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={darkshadee}&theme=blue-green)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkshadee"></img>
