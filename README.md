@@ -4,7 +4,7 @@
 
 Hosted Site Name | Status
 --- | ---
-**ashuuu.ml** | [![Website ashuuu.ml](https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg)](https://ashuuu.ml/)
+**ashuuu.ml** | [![ashuuu.ml](https://img.shields.io/website-up-down-green-red/https/ashuuu.ml.svg)](https://ashuuu.ml/)
 
 Q | A
 --- | ---
