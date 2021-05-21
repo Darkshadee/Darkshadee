@@ -8,7 +8,7 @@ Hosted Site Name | Status
 
 Q | A
 --- | ---
-**My Name**  | `Ashwin`
+**My Name**  | [![https://ashuuu.ml](https://img.shields.io/badge/Ashwin-2CA5E0?style=for-the-badge&logoColor=whit)](https://ashuuu.ml)
 **Editor**  | `Visual Studio Code`
 **Languages I know**  | `C , Python`
 **Languages I learning** | `Go, Rust , C++ `
