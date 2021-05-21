@@ -4,7 +4,7 @@
 
 Hosted Site Name | Status
 --- | ---
-**ashuuu.ml** | [![ashuuu.ml](https://img.shields.io/website-up-down-green-red/https/ashuuu.ml.svg)](https://ashuuu.ml/)
+**ashuuu.ml** | [![ashuuu.ml](https://img.shields.io/website-up-down-green-red/https/ashuuu.ml.svg?style=flat-square)](https://ashuuu.ml/)
 
 Q | A
 --- | ---
