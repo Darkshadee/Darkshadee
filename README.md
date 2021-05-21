@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋
-![https://t.me/AShuuu_me](https://img.shields.io/badge/telegram-Ashwin-blue)
+[![https://t.me/AShuuu_me](https://img.shields.io/badge/telegram-Ashwin-blue)](https://t.me/AShuuu_me)
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/darkshadee/)
 
 
