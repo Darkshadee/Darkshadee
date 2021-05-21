@@ -10,7 +10,7 @@ Q | A
 --- | ---
 **My Name**  | [![https://ashuuu.ml](https://img.shields.io/badge/Ashwin-2CA5E0?style=for-the-badge&logoColor=whit)](https://ashuuu.ml)
 **Editor**  | ![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-23A3EA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-**My knowledge & skills**  | ![redhat](https://img.shields.io/badge/Redhat-E70000?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-669933?style=for-the-badge) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**My knowledge & skills**  | ![redhat](https://img.shields.io/badge/Redhat-E70000?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-669933?style=for-the-badge) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Nagios](https://img.shields.io/badge/Nagios-CC0066?style=for-the-badge)
 **Learning Progress** | ![aws](https://img.shields.io/badge/Amazon_AWS-F08804?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
  ‏‏‎ ‎| ‏‏‎ ‎
