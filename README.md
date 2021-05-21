@@ -9,7 +9,7 @@ Hosted Site Name | Status
 Q | A
 --- | ---
 **My Name**  | [![https://ashuuu.ml](https://img.shields.io/badge/Ashwin-2CA5E0?style=for-the-badge&logoColor=whit)](https://ashuuu.ml)
-**Editor**  | [![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-23A3EA?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+**Editor**  | ![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-23A3EA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 **Languages I know**  | `C , Python`
 **Languages I learning** | `Go, Rust , C++ `
 
