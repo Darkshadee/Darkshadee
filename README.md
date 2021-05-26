@@ -18,8 +18,8 @@ Q | A
  --- | ---
 [![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=darkshadee&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Darkshadee) | [![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadee&theme=radical&layout=compact)](https://github.com/Darkshadee)
 
+[![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=darkshadee)](https://github.com/Darkshadee)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkshadee"></img>
 
 ## Want To Know About Me ?
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashuuu_darkshade) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AShuuuCruzz) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwin_cruzz)
